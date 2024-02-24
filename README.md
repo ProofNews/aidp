@@ -1,5 +1,5 @@
 # aidp
-The AI Democracy Projects are a collaboration between [Proof News]([url](https://www.proofnews.org/)) and the [Science, Technology, and Social Values Lab]([url](http://www.ias.edu/stsv-lab)) at the Institute for Advanced Study.
+The AI Democracy Projects are a collaboration between [Proof News](https://www.proofnews.org/) and the [Science, Technology, and Social Values Lab](http://www.ias.edu/stsv-lab) at the Institute for Advanced Study.
 
 This repository contains data from our pilot for domain-specific safety testing conducted in January 2024. Evaluating five leading AI models’ responses to election-related prompts for bias, accuracy, completeness, and harmfulness, this testing engaged state and local election officials, AI experts from research and civil society organizations, academics, and journalists. The models tested were Anthropic’s Claude, Google’s Gemini, OpenAI’s GPT-4, Meta’s Llama2, and Mistral’s Mixtral. For GPT-4, Gemini, and Claude, we used the original provider APIs directly. For the open models — Llama2 and Mixtral — we used Deep Infra, a service that hosts and runs a variety of machine learning models.
 
