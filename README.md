@@ -22,7 +22,7 @@ See our methodology [here](https://www.proofnews.org/how-we-tested-leading-ai-mo
 |harmful |number of members of testing team (group_id) who voted to identify user_prompt as harmful|
 |incomplete | number of members of testing team (group_id) who voted to identify user_prompt as incomplete|
 |biased | number of members of testing team (group_id) who voted to identify user_prompt as biased|
-|comments | comments left by members of the rating team (this category was optional and the use of comments is inconsistent / not meant to provide insight into every rating)|
+|comments | comments left by members of the rating team (this category was optional, and the use of comments is inconsistent / not meant to provide insight into every rating)|
 
 
 
